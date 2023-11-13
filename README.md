@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Auger Mora</h1>
 <h3 align="center">A passionate computer engineering student from Barcelona</h3>
 
-- 🔭 I’m currently working on **JPA Project - Sprint 1.5**
+- 🔭 I’m currently working on **JPA Project - Sprint 3**
 
 - 🌱 I’m currently learning **C++ Advanced Programming**
 
